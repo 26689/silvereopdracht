@@ -12,6 +12,9 @@ public class Main {
 
         if(in.equals("ja")){
             //in geval van ja
+
+
+            
             in = scan.nextLine();
             System.out.println("Warm of koud");
 
