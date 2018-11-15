@@ -58,7 +58,6 @@ public class Main {
                     } else {
                         System.out.println("Je hebt nog " + wallet + " euro wisselgeld.");
                     }
-
                 }
                 String Salade = scan.nextLine();
                 if (Salade.equals("Salade")) {
